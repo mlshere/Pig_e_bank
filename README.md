@@ -1,7 +1,7 @@
 # **Pig E. Bank - Customer Churn Analysis**  
 
 ## **Objective**  
-This analysis aims to identify the leading **risk factors** contributing to customer churn at Pig E. Bank. By leveraging client attribute data, we seek to provide actionable insights to reduce attrition and improve customer retention.
+This analysis aims to identify the leading **risk factors** contributing to customer churn at Pig E. Bank. By using client attribute data, we seek to provide actionable insights to reduce attrition and improve customer retention.
 
 **[Pig E Bank - Customer Churn Data](Data_findings.xlsx)**
 
